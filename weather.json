@@ -1,0 +1,483 @@
+{
+    "DYN_DAT_MINDS_RYES": {
+        "BulletinTime": {
+            "Val_Eng": "0015",
+            "Val_Chi": "0015"
+        },
+        "BulletinDate": {
+            "Val_Eng": "20210622",
+            "Val_Chi": "20210622"
+        },
+        "ReportTimeInfoDate": {
+            "Val_Eng": "20210621",
+            "Val_Chi": "20210621"
+        },
+        "HKOReadingsRainfall": {
+            "Val_Eng": "1.2",
+            "Val_Chi": "1.2"
+        },
+        "KingsParkReadingsMinTemp": {
+            "Val_Eng": "28.7",
+            "Val_Chi": "28.7"
+        },
+        "KingsParkReadingsMaxTemp": {
+            "Val_Eng": "32.5",
+            "Val_Chi": "32.5"
+        },
+        "KingsParkLocationName": {
+            "Val_Eng": "King's Park",
+            "Val_Chi": "京士柏"
+        },
+        "TaKwuLingMinTemp": {
+            "Val_Eng": "27.2",
+            "Val_Chi": "27.2"
+        },
+        "TaKwuLingMaxTemp": {
+            "Val_Eng": "35.0",
+            "Val_Chi": "35.0"
+        },
+        "TaKwuLingLocationName": {
+            "Val_Eng": "Ta Kwu Ling",
+            "Val_Chi": "打鼓嶺"
+        },
+        "WongChukHangMinTemp": {
+            "Val_Eng": "29.4",
+            "Val_Chi": "29.4"
+        },
+        "WongChukHangMaxTemp": {
+            "Val_Eng": "31.3",
+            "Val_Chi": "31.3"
+        },
+        "WongChukHangLocationName": {
+            "Val_Eng": "Wong Chuk Hang",
+            "Val_Chi": "黃竹坑"
+        },
+        "LauFauShanMinTemp": {
+            "Val_Eng": "24.5",
+            "Val_Chi": "24.5"
+        },
+        "LauFauShanMaxTemp": {
+            "Val_Eng": "34.4",
+            "Val_Chi": "34.4"
+        },
+        "LauFauShanLocationName": {
+            "Val_Eng": "Lau Fau Shan",
+            "Val_Chi": "流浮山"
+        },
+        "TaiPoMinTemp": {
+            "Val_Eng": "28.1",
+            "Val_Chi": "28.1"
+        },
+        "TaiPoMaxTemp": {
+            "Val_Eng": "33.5",
+            "Val_Chi": "33.5"
+        },
+        "TaiPoLocationName": {
+            "Val_Eng": "Tai Po",
+            "Val_Chi": "大埔"
+        },
+        "ShaTinMinTemp": {
+            "Val_Eng": "27.2",
+            "Val_Chi": "27.2"
+        },
+        "ShaTinMaxTemp": {
+            "Val_Eng": "31.6",
+            "Val_Chi": "31.6"
+        },
+        "ShaTinLocationName": {
+            "Val_Eng": "Sha Tin",
+            "Val_Chi": "沙田"
+        },
+        "TuenMunMinTemp": {
+            "Val_Eng": "26.7",
+            "Val_Chi": "26.7"
+        },
+        "TuenMunMaxTemp": {
+            "Val_Eng": "32.8",
+            "Val_Chi": "32.8"
+        },
+        "TuenMunLocationName": {
+            "Val_Eng": "Tuen Mun",
+            "Val_Chi": "屯門"
+        },
+        "TseungKwanOMinTemp": {
+            "Val_Eng": "27.3",
+            "Val_Chi": "27.3"
+        },
+        "TseungKwanOMaxTemp": {
+            "Val_Eng": "31.3",
+            "Val_Chi": "31.3"
+        },
+        "TseungKwanOLocationName": {
+            "Val_Eng": "Tseung Kwan O",
+            "Val_Chi": "將軍澳"
+        },
+        "SaiKungMinTemp": {
+            "Val_Eng": "28.7",
+            "Val_Chi": "28.7"
+        },
+        "SaiKungMaxTemp": {
+            "Val_Eng": "33.1",
+            "Val_Chi": "33.1"
+        },
+        "SaiKungLocationName": {
+            "Val_Eng": "Sai Kung",
+            "Val_Chi": "西貢"
+        },
+        "CheungChauMinTemp": {
+            "Val_Eng": "28.4",
+            "Val_Chi": "28.4"
+        },
+        "CheungChauMaxTemp": {
+            "Val_Eng": "34.0",
+            "Val_Chi": "34.0"
+        },
+        "CheungChauLocationName": {
+            "Val_Eng": "Cheung Chau",
+            "Val_Chi": "長洲"
+        },
+        "ChekLapKokMinTemp": {
+            "Val_Eng": "28.0",
+            "Val_Chi": "28.0"
+        },
+        "ChekLapKokMaxTemp": {
+            "Val_Eng": "34.8",
+            "Val_Chi": "34.8"
+        },
+        "ChekLapKokLocationName": {
+            "Val_Eng": "Chek Lap Kok",
+            "Val_Chi": "赤鱲角"
+        },
+        "TsingYiMinTemp": {
+            "Val_Eng": "26.3",
+            "Val_Chi": "26.3"
+        },
+        "TsingYiMaxTemp": {
+            "Val_Eng": "32.1",
+            "Val_Chi": "32.1"
+        },
+        "TsingYiLocationName": {
+            "Val_Eng": "Tsing Yi",
+            "Val_Chi": "青衣"
+        },
+        "ShekKongMinTemp": {
+            "Val_Eng": "26.1",
+            "Val_Chi": "26.1"
+        },
+        "ShekKongMaxTemp": {
+            "Val_Eng": "34.0",
+            "Val_Chi": "34.0"
+        },
+        "ShekKongLocationName": {
+            "Val_Eng": "Shek Kong",
+            "Val_Chi": "石崗"
+        },
+        "TsuenWanHoKoonMinTemp": {
+            "Val_Eng": "24.6",
+            "Val_Chi": "24.6"
+        },
+        "TsuenWanHoKoonMaxTemp": {
+            "Val_Eng": "29.7",
+            "Val_Chi": "29.7"
+        },
+        "TsuenWanHoKoonLocationName": {
+            "Val_Eng": "Tsuen Wan Ho Koon",
+            "Val_Chi": "荃灣可觀"
+        },
+        "TsuenWanShingMunValleyMinTemp": {
+            "Val_Eng": "25.7",
+            "Val_Chi": "25.7"
+        },
+        "TsuenWanShingMunValleyMaxTemp": {
+            "Val_Eng": "30.8",
+            "Val_Chi": "30.8"
+        },
+        "TsuenWanShingMunValleyLocationName": {
+            "Val_Eng": "Tsuen Wan Shing Mun Valley",
+            "Val_Chi": "荃灣城門谷"
+        },
+        "HongKongParkMinTemp": {
+            "Val_Eng": "28.5",
+            "Val_Chi": "28.5"
+        },
+        "HongKongParkMaxTemp": {
+            "Val_Eng": "31.5",
+            "Val_Chi": "31.5"
+        },
+        "HongKongParkLocationName": {
+            "Val_Eng": "Hong Kong Park",
+            "Val_Chi": "香港公園"
+        },
+        "ShauKeiWanMinTemp": {
+            "Val_Eng": "27.5",
+            "Val_Chi": "27.5"
+        },
+        "ShauKeiWanMaxTemp": {
+            "Val_Eng": "31.9",
+            "Val_Chi": "31.9"
+        },
+        "ShauKeiWanLocationName": {
+            "Val_Eng": "Shau Kei Wan",
+            "Val_Chi": "筲箕灣"
+        },
+        "KowloonCityMinTemp": {
+            "Val_Eng": "27.0",
+            "Val_Chi": "27.0"
+        },
+        "KowloonCityMaxTemp": {
+            "Val_Eng": "33.4",
+            "Val_Chi": "33.4"
+        },
+        "KowloonCityLocationName": {
+            "Val_Eng": "Kowloon City",
+            "Val_Chi": "九龍城"
+        },
+        "HappyValleyMinTemp": {
+            "Val_Eng": "28.7",
+            "Val_Chi": "28.7"
+        },
+        "HappyValleyMaxTemp": {
+            "Val_Eng": "31.6",
+            "Val_Chi": "31.6"
+        },
+        "HappyValleyLocationName": {
+            "Val_Eng": "Happy Valley",
+            "Val_Chi": "跑馬地"
+        },
+        "WongTaiSinMinTemp": {
+            "Val_Eng": "27.2",
+            "Val_Chi": "27.2"
+        },
+        "WongTaiSinMaxTemp": {
+            "Val_Eng": "32.8",
+            "Val_Chi": "32.8"
+        },
+        "WongTaiSinLocationName": {
+            "Val_Eng": "Wong Tai Sin",
+            "Val_Chi": "黃大仙"
+        },
+        "StanleyMinTemp": {
+            "Val_Eng": "29.4",
+            "Val_Chi": "29.4"
+        },
+        "StanleyMaxTemp": {
+            "Val_Eng": "31.4",
+            "Val_Chi": "31.4"
+        },
+        "StanleyLocationName": {
+            "Val_Eng": "Stanley",
+            "Val_Chi": "赤柱"
+        },
+        "KwunTongMinTemp": {
+            "Val_Eng": "27.7",
+            "Val_Chi": "27.7"
+        },
+        "KwunTongMaxTemp": {
+            "Val_Eng": "31.4",
+            "Val_Chi": "31.4"
+        },
+        "KwunTongLocationName": {
+            "Val_Eng": "Kwun Tong",
+            "Val_Chi": "觀塘"
+        },
+        "ShamShuiPoMinTemp": {
+            "Val_Eng": "25.9",
+            "Val_Chi": "25.9"
+        },
+        "ShamShuiPoMaxTemp": {
+            "Val_Eng": "32.2",
+            "Val_Chi": "32.2"
+        },
+        "ShamShuiPoLocationName": {
+            "Val_Eng": "Sham Shui Po",
+            "Val_Chi": "深水埗"
+        },
+        "KaiTakRunwayParkMinTemp": {
+            "Val_Eng": "28.6",
+            "Val_Chi": "28.6"
+        },
+        "KaiTakRunwayParkMaxTemp": {
+            "Val_Eng": "32.0",
+            "Val_Chi": "32.0"
+        },
+        "KaiTakRunwayParkLocationName": {
+            "Val_Eng": "Kai Tak Runway Park",
+            "Val_Chi": "啟德跑道公園"
+        },
+        "YuenLongParkMinTemp": {
+            "Val_Eng": "26.2",
+            "Val_Chi": "26.2"
+        },
+        "YuenLongParkMaxTemp": {
+            "Val_Eng": "35.4",
+            "Val_Chi": "35.4"
+        },
+        "YuenLongParkLocationName": {
+            "Val_Eng": "Yuen Long Park",
+            "Val_Chi": "元朗公園"
+        },
+        "TaiMeiTukMinTemp": {
+            "Val_Eng": "27.7",
+            "Val_Chi": "27.7"
+        },
+        "TaiMeiTukMaxTemp": {
+            "Val_Eng": "34.0",
+            "Val_Chi": "34.0"
+        },
+        "TaiMeiTukLocationName": {
+            "Val_Eng": "Tai Mei Tuk",
+            "Val_Chi": "大美督"
+        },
+        "KingsParkReadingsMeanUVIndex": {
+            "Val_Eng": "4",
+            "Val_Chi": "4"
+        },
+        "HKOReadingsMaxTemp": {
+            "Val_Eng": "32.4",
+            "Val_Chi": "32.4"
+        },
+        "HKOReadingsMinTemp": {
+            "Val_Eng": "29.4",
+            "Val_Chi": "29.4"
+        },
+        "HKOReadingsMinGrassTemp": {
+            "Val_Eng": "27.8",
+            "Val_Chi": "27.8"
+        },
+        "HKOReadingsMinRH": {
+            "Val_Eng": "73",
+            "Val_Chi": "73"
+        },
+        "HKOReadingsMaxRH": {
+            "Val_Eng": "87",
+            "Val_Chi": "87"
+        },
+        "HKOReadingsAccumRainfall": {
+            "Val_Eng": "383.2",
+            "Val_Chi": "383.2"
+        },
+        "HKOReadingsAvgRainfall": {
+            "Val_Eng": "944.8",
+            "Val_Chi": "944.8"
+        },
+        "KingsParkReadingsSunShine": {
+            "Val_Eng": "4.6",
+            "Val_Chi": "4.6"
+        },
+        "KingsParkReadingsMaxUVIndex": {
+            "Val_Eng": "10",
+            "Val_Chi": "10"
+        },
+        "WaglanIslandSeaTemp": {
+            "Val_Eng": "",
+            "Val_Chi": ""
+        },
+        "HongKongDesc": {
+            "Val_Eng": "Average ambient gamma radiation dose rate taken outdoors in Hong Kong ranged from 0.09 to 0.14 microsievert per hour.  These are within the normal range of fluctuation of the background radiation level in Hong Kong.",
+            "Val_Chi": "在香港所錄得的平均戶外環境伽瑪輻射劑量率為每小時0.09至0.14微希沃特，此劑量率是在本港的本底輻射水平之正常變化範圍以內。"
+        },
+        "KingsParkMicrosieverts": {
+            "Val_Eng": "0.14",
+            "Val_Chi": "0.14"
+        },
+        "PingChauLocationName": {
+            "Val_Eng": "Ping Chau",
+            "Val_Chi": "平洲"
+        },
+        "PingChauMicrosieverts": {
+            "Val_Eng": "0.09",
+            "Val_Chi": "0.09"
+        },
+        "TapMunLocationName": {
+            "Val_Eng": "Tap Mun",
+            "Val_Chi": "塔門"
+        },
+        "TapMunMicrosieverts": {
+            "Val_Eng": "0.09",
+            "Val_Chi": "0.09"
+        },
+        "KatOLocationName": {
+            "Val_Eng": "Kat O",
+            "Val_Chi": "吉澳"
+        },
+        "KatOMicrosieverts": {
+            "Val_Eng": "0.11",
+            "Val_Chi": "0.11"
+        },
+        "YuenNgFanLocationName": {
+            "Val_Eng": "Yuen Ng Fan",
+            "Val_Chi": "元五墳"
+        },
+        "YuenNgFanMicrosieverts": {
+            "Val_Eng": "0.12",
+            "Val_Chi": "0.12"
+        },
+        "TaiMeiTukMicrosieverts": {
+            "Val_Eng": "0.11",
+            "Val_Chi": "0.11"
+        },
+        "ShaTauKokLocationName": {
+            "Val_Eng": "Sha Tau Kok",
+            "Val_Chi": "沙頭角"
+        },
+        "ShaTauKokMicrosieverts": {
+            "Val_Eng": "0.10",
+            "Val_Chi": "0.10"
+        },
+        "KwunTongMicrosieverts": {
+            "Val_Eng": "0.12",
+            "Val_Chi": "0.12"
+        },
+        "SaiWanHoLocationName": {
+            "Val_Eng": "Sai Wan Ho",
+            "Val_Chi": "西灣河"
+        },
+        "SaiWanHoMicrosieverts": {
+            "Val_Eng": "0.09",
+            "Val_Chi": "0.09"
+        },
+        "TsimBeiTsuiLocationName": {
+            "Val_Eng": "Tsim Bei Tsui",
+            "Val_Chi": "尖鼻咀"
+        },
+        "TsimBeiTsuiMicrosieverts": {
+            "Val_Eng": "0.12",
+            "Val_Chi": "0.12"
+        },
+        "CapeDAguilarLocationName": {
+            "Val_Eng": "Cape D'Aguilar",
+            "Val_Chi": "鶴咀"
+        },
+        "CapeDAguilarMicrosieverts": {
+            "Val_Eng": "0.13",
+            "Val_Chi": "0.13"
+        },
+        "ChekLapKokMicrosieverts": {
+            "Val_Eng": "0.14",
+            "Val_Chi": "0.14"
+        },
+        "NoteDesc": {
+            "Val_Eng": "From readings taken at various locations in Hong Kong in the past, the hourly mean ambient gamma radiation dose rate may vary between 0.06 and 0.3 microsievert per hour. (1 microsievert = 0.000001 sievert = 0.001 millisievert)",
+            "Val_Chi": "根據過去在香港各地區所錄得的數據顯示，本港的每小時平均環境伽馬輻射劑量率可以在每小時0.06至0.3微希沃特這範圍內波動。(1微希沃特=百萬分之一希沃特=千分之一毫希沃特)"
+        },
+        "NoteDesc1": {
+            "Val_Eng": "Temporal variations are generally caused by changes in meteorological conditions such as rainfall, wind and barometric pressure.",
+            "Val_Chi": "輻射水平在時間上的變化，一般由降雨、風和氣壓等氣象因素所引致。"
+        },
+        "NoteDesc2": {
+            "Val_Eng": "Spatial variations are generally caused by differences in the radioactive content of local rock and soil.",
+            "Val_Chi": "輻射水平之地區差異，一般由各地區之岩石及土壤所含有不同的放射性物質所引致。"
+        },
+        "NoteDesc3": {
+            "Val_Eng": "The data displayed is provisional. Only limited data validation has been carried out.",
+            "Val_Chi": "此乃臨時數據，只經過有限度的數據驗證。"
+        },
+        "NoteDesc4": {
+            "Val_Eng": "The range of relative humidity in the daily weather summary originates from the observer's reports of Hourly Readings of the day. This follows the long-term practice of collecting climatological data of the Hong Kong Observatory for over a century. It may differ from the relative humidity range derived from the 1-minute reports of the automatic weather station.",
+            "Val_Chi": "每日天氣摘要中的相對濕度範圍源自觀測員當天的每小時溫度濕度報告，這是天文台百多年來收集長期氣候數據一貫的做法，可能與自動氣象站每分鐘報告得出的相對濕度範圍不同。"
+        },
+        "YTaiMeiTukMaxTemp": {
+            "Val_Eng": ""
+        }
+    }
+}
